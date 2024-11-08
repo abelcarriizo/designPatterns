@@ -1,4 +1,4 @@
-# Notas de Patrones de Diseño
+# Patrones de Diseño
 
 > Antes de estudiar los patrones, puedes refrescar tu memoria repasando los términos clave de la programación orientada a objetos.
 
